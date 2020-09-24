@@ -5,14 +5,14 @@
 Python
 </li>
 <li>
-HTML
+HTML (Not really a programming language)
 </li>
 <li>
-CSS
+CSS (Not really a programming language)
 </li>
 </ul>
 </b>
-<p>My operation system is a Linux distro: <a href="https://www.debian.org/" rel="noreferrer" target="_blank">GNOME Debian</a>
-I also use Fedora on my laptop.</p>
-<p>My favorite editor is <a href="https://code.visualstudio.com" rel="noreffer" target="_blank">vscode</a></p>
+<p>My main operation system is <a href="https://www.debian.org/" rel="noreferrer" target="_blank">GNOME Debian</a>
+I use Fedora/Windows on my laptop.</p>
+<p>My favorite code editor is <a href="https://code.visualstudio.com" rel="noreffer" target="_blank">vscode</a></p>
 <p>I tend to create all sorts of stuff, but usually i'm way too lazy to finish everything.</p>
