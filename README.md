@@ -1,5 +1,5 @@
 <h1> Hello There! 👋</h1>
-<p>I'm a finnish "coder hobbyist" that is currently studying in high school. My main programming languages are:</p>
+<p>I'm a finnish "coder hobbyist" that is currently studying in college. My main programming languages are:</p>
 <b><ul>
 <li>
 Python
