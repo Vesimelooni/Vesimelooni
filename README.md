@@ -1,8 +1,11 @@
 <h1> Hello There! 👋</h1>
-<p>I'm a finnish "coder hobbyist" that is currently studying in college. My main programming languages are:</p>
+<p>I'm a Finnish "coder hobbyist" that is currently studying in college. My main programming languages are:</p>
 <b><ul>
 <li>
 Python
+</li>
+<li>
+Maybe C++? (Currently learning it)
 </li>
 <li>
 HTML (Not really a programming language)
